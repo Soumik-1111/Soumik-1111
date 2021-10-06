@@ -8,9 +8,9 @@
 
 ### I'm from Dubrajpur 🏕, Birbhum, W.B-731123
 #### Schooling - <img src="https://img.icons8.com/color/48/000000/university.png"/>
-*1. Dubrajpur R.B.S.D High School*
+*1. Dubrajpur R.B.S.D High School* (2011-2017)
 
-*2. Dubrajpur Sree Sree Sarada Vidyapith*
+*2. Dubrajpur Sree Sree Sarada Vidyapith* (2017-2019)
 
 #### College - Netaji Subhas Engineering College
 
@@ -18,7 +18,8 @@
 
 ##### I'm currently Studying in IT at NSEC,Garia,Kolkata-700152
 
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/91623136/136168101-92583fb7-453f-45f6-903c-4802cf73f21d.png"/>
+
 
 
 ##### I'm looking to collaborate on Open source contribution and web development<p align="center">
@@ -30,15 +31,12 @@
 
 ##### I'm currently learning C , Cloud computing 
 
-
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-cloud-cloud-data-technology-and-network-technology-flatart-icons-flat-flatarticons.png"/>
 
 #### Background :😊
 
-###### I got a chance to serve my nation and fullfill my dream through INDIAN NAVY   
-
+###### I got a chance to serve my nation and fullfill my dream through INDIAN NAVY but unfortunatrly couldn't continue that. So now I am following my passion not my dream. 🙂
 <img src="https://user-images.githubusercontent.com/91623136/136148103-53dfd403-b3a1-4664-aa89-b0c675a53281.png"/>
-
-###### but unfortunatrly couldn't continue that. So now I am following my passion. 🙂
 
 | Hobbies |
 | ---|
