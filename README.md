@@ -57,11 +57,7 @@
 
 ### CONTACT DETAILS :-
 
-[<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/soumik-mukherjee-329a63220)
-
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/abir__i11/)
-
-[<img src="https://img.icons8.com/clouds/50/000000/facebook-new.png"/>](https://www.facebook.com/soumik.mukherjee.522)
+[<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/soumik-mukherjee-329a63220)[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/abir__i11/)[<img src="https://img.icons8.com/clouds/50/000000/facebook-new.png"/>](https://www.facebook.com/soumik.mukherjee.522)
 
 <!--
 **Soumik-1111/Soumik-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
