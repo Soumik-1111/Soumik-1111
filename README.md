@@ -54,7 +54,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumik-1111" alt="Soumik-1111" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumik-1111&show_icons=true&locale=en" alt="Soumik-1111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumik-1111&" alt="Soumik-1111" /></p>
 
