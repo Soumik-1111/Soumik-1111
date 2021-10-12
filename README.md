@@ -16,14 +16,13 @@
 
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-college-personal-finance-inipagistudio-lineal-color-inipagistudio.png"/>
 
-##### I'm currently Studying in IT at NSEC,Garia,Kolkata-700152
+##### I'm currently Studying in IT at NSEC,Garia,Kolkata-700152    
 
 <img src="https://user-images.githubusercontent.com/91623136/136168101-92583fb7-453f-45f6-903c-4802cf73f21d.png"/>
 
 
 
-##### I'm looking to collaborate on Open source contribution and web development<p align="center">
- <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
+##### I'm looking to collaborate on Open source contribution and web development<p align="center">            <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
 </p>
 
 - 📫 How to reach me **mukherjeesoummik700@gmail.com**
