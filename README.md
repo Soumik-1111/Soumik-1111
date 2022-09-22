@@ -28,9 +28,9 @@
 - 📫 How to reach me **mukherjeesoummik700@gmail.com**
 
 
-##### I'm currently learning C , Cloud computing 
+##### I'm currently learning C  
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-cloud-cloud-data-technology-and-network-technology-flatart-icons-flat-flatarticons.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
 #### Background :😊
 
