@@ -47,11 +47,11 @@
 |----|
 *Bengali, English, Hindi*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumik-1111&label=Profile%20views&color=0e75b6&style=flat" alt="Soumik-1111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumik-Abir&label=Profile%20views&color=0e75b6&style=flat" alt="Soumik-Abir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumik-1111" alt="Soumik-1111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumik-Abir" alt="Soumik-Abir" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumik-1111&show_icons=true&locale=en" alt="Soumik-1111" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumik-Abir&show_icons=true&locale=en" alt="Soumik-Abir" /></p>
 
 
 ### CONTACT DETAILS :-
@@ -59,7 +59,7 @@
 [<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/soumik-mukherjee-329a63220)[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/abir__i11/)[<img src="https://img.icons8.com/clouds/50/000000/facebook-new.png"/>](https://www.facebook.com/soumik.mukherjee.522)
 
 <!--
-**Soumik-1111/Soumik-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soumik-Abir/Soumik-Abir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
