@@ -3,72 +3,40 @@
 <!-- OctoCats -->
 
 
-# Hi there, I'm Soumik Mukherjee <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-#### A Ucoming Software Developer 💻 🖱️
+<h1 align="center">Hi 👋, I'm Soumik Mukherjee</h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
-### I'm from Dubrajpur 🏕, Birbhum, W.B-731123
-#### Schooling - <img src="https://img.icons8.com/color/48/000000/university.png"/>
-*1. Dubrajpur R.B.S.D High School* (2011-2017)
+<img align="right" alt="coding pic" width="400" src="https://github.com/Soumik-Abir/Soumik-Abir/blob/main/68747470733a2f2f63646e2e647269-unscreen.gif">
 
-*2. Dubrajpur Sree Sree Sarada Vidyapith* (2017-2019)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-abir&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-abir" /> </p>
 
-#### College - Netaji Subhas Engineering College
+- 🌱 I’m currently learning **TypeScript & Next.js**
 
-<img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/64/000000/external-college-personal-finance-inipagistudio-lineal-color-inipagistudio.png"/>
+- 💬 Ask me about **React, JavaScript**
 
-##### I'm currently Studying in IT at NSEC,Garia,Kolkata-700152    
+- 📫 How to reach me **mukherjeesoumik700@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/91623136/136168101-92583fb7-453f-45f6-903c-4802cf73f21d.png"/>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fCdeO_gtU_hqKkS3N19R9XembsnRuvrt/view?usp=sharing](https://drive.google.com/file/d/1fCdeO_gtU_hqKkS3N19R9XembsnRuvrt/view?usp=sharing)
 
+- ⚡ Fun fact **Debugging is like being the detective in a crime movie where you are also the murderer😒😂**
 
-
-##### I'm looking to collaborate on Open source contribution and web development<p align="center">            <img width="400px" src="https://magiccopy.xyz/assets/images/hadder.gif" align="center" alt="GitHub Readme Stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soumik_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumik_09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumik09" height="30" width="40" /></a>
+<a href="https://instagram.com/abir_amiable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir_amiable" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mukherjeesoumik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukherjeesoumik1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mukherjeesoumik700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeesoumik700" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mukherjeesoumik700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mukherjeesoumik700" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **mukherjeesoummik700@gmail.com**
 
 
-##### I'm currently learning C  
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-
-#### Background :😊
-
-###### I got a chance to serve my nation and fullfill my dream through INDIAN NAVY but unfortunatrly couldn't continue that. So now I am following my passion not my dream. 🙂
-<img src="https://user-images.githubusercontent.com/91623136/136148103-53dfd403-b3a1-4664-aa89-b0c675a53281.png"/>
-
-| Hobbies |
-| ---|
-*Gardening*🎍
-*Listening music*🎧
-*Exploring new things*👀👀
-
-|Spoken Languages |
-|----|
-*Bengali, English, Hindi*
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumik-Abir&label=Profile%20views&color=0e75b6&style=flat" alt="Soumik-Abir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumik-Abir" alt="Soumik-Abir" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumik-Abir&show_icons=true&locale=en" alt="Soumik-Abir" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-### CONTACT DETAILS :-
 
-[<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/soumik-mukherjee-329a63220)[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/abir__i11/)[<img src="https://img.icons8.com/clouds/50/000000/facebook-new.png"/>](https://www.facebook.com/soumik.mukherjee.522)
 
-<!--
-**Soumik-Abir/Soumik-Abir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumik-abir&show_icons=true&locale=en&layout=compact" alt="soumik-abir" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumik-abir&" alt="soumik-abir" /></p>
