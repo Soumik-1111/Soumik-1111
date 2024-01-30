@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Soumik Mukherjee</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="coding pic" width="400" src="https://github.com/Soumik-Abir/Soumik-Abir/blob/main/68747470733a2f2f63646e2e647269-unscreen.gif">
+<img align="right" alt="coding pic" width="400" src="https://github.com/Soumik-Abir/Soumik-Abir/blob/main/output-onlinegiftools.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-abir&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-abir" /> </p>
 
